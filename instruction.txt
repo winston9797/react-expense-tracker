@@ -1,0 +1,20 @@
+expanse tracker
+you balance (based on income or expense)
+income - expense
+history
+expenses red
+inciomes green
+
+add new transaction
+input text
+type of transaction
+amount (to be added or taken from balance if its expense or income)
+
+button add transaction
+
+Header
+balance
+  income expense 
+history list
+
+Add new transaction

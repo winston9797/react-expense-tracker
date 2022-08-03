@@ -1,0 +1,30 @@
+.balance{
+    margin-top: 20px;
+    padding: 20px;
+}
+.balance-text{
+    font-size: 16px;
+}
+.balance-num{
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.balance-row{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    box-shadow: rgba(100, 100, 111, 0.123) 0px 7px 29px 0px;
+}
+
+.card:first-child{
+    border-right: 1px solid rgb(237, 236, 236);
+}
+
+.card{
+    padding: 20px;
+    width: 40%;
+    text-align: center;
+    font-size: 22px;
+    flex: 1;
+}
